@@ -1,1 +1,2 @@
 This is in new_branch
+Second line editing for merge concept
